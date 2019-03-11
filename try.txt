@@ -26,3 +26,5 @@ The core folder contains initializer code and the config folder contains configu
 The helpers folder contain helper functions that are needed by the code anywhere else. They are extensively used inside views. User avatar is stored in images/avatars and default avatar is stored in templates/img/.
 
 To install this applicaion, create a db from talkingspace.sql file. then copy all other files to your htdocs folder and run.
+
+-------------------------------------------------------*************************----------------------------------------------------------
